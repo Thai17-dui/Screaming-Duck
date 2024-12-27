@@ -2,7 +2,7 @@
 a old remake of flappy bird.
 
 
-Special thanks to :
-Ducanger
-Lazy foo's turtorial
-Akari Hassan
+Special thanks to :/n
+Ducanger/n
+Lazy foo's turtorial/n
+Akari Hassan/n
