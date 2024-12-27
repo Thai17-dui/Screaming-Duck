@@ -1,5 +1,5 @@
 # Screaming-Duck
-an old remake of flappy bird.
+An old remake of flappy bird. Credit for Dong Nguyen.
 
 
 Special thanks to :
